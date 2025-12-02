@@ -29,10 +29,6 @@ Arquivos principais:
 
 - `dados_transacoes_fraude_5000.csv`  
   Versão maior (≈ 5000 linhas) e mais equilibrada de dados de transações, usada na POC avançada.
-
-- `Trabalho_ML_Naive_Bayes_ABNT_Kaique.docx`  
-  Documento do trabalho escrito, formatado conforme padrão acadêmico brasileiro (margens, fonte, espaçamento).
-
 ---
 
 ## 2. Requisitos
